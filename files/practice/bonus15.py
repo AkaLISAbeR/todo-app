@@ -21,5 +21,7 @@ for index, questions in enumerate(data):
 
 print("Score: ",score, " / ", len(data))
 
+print("hello world")
+
 
 
